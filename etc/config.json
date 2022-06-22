@@ -20,13 +20,6 @@
                 "wsSettings": {
                   "path": "/$AUUID-vmess"
                 }
-            },
-            "sniffing": {
-                "enabled": true,
-                "destOverride": [
-                    "http",
-                    "tls"
-                ]
             }
         },
         {   
@@ -48,13 +41,6 @@
                 "wsSettings": {
                   "path": "/$AUUID-vless"
                 }
-            },
-            "sniffing": {
-                "enabled": true,
-                "destOverride": [
-                    "http",
-                    "tls"
-                ]
             }
         },
         {   
@@ -74,13 +60,6 @@
                 "wsSettings": {
                     "path": "/$AUUID-ss"
                 }
-            },
-            "sniffing": {
-                "enabled": true,
-                "destOverride": [
-                    "http",
-                    "tls"
-                ]
             }
         },
         {   
@@ -101,13 +80,6 @@
                 "wsSettings": {
                   "path": "/$AUUID-socks"
                 }
-            },
-            "sniffing": {
-                "enabled": true,
-                "destOverride": [
-                    "http",
-                    "tls"
-                ]
             }
         },
         {   
@@ -129,13 +101,6 @@
                 "wsSettings": {
                   "path": "/$AUUID-trojan"
                 }
-            },
-            "sniffing": {
-                "enabled": true,
-                "destOverride": [
-                    "http",
-                    "tls"
-                ]
             }
         }
     ],
